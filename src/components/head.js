@@ -29,6 +29,7 @@ const Head = ({ metadata }) => (
     <link rel="canonical" href="https://zainzafar.net" />
 
     <meta name="description" content={metadata.description} />
+    <meta name="author" content={config.author} />
     <meta name="keywords" content={config.siteKeywords} />
     <meta name="google-site-verification" content={config.googleVerification} />
     <meta property="og:title" content={metadata.title} />

@@ -6,6 +6,7 @@ module.exports = {
     'Zain Zafar,  zainzafar90, software engineer, front-end engineer, web developer, javascript, islamabad',
   siteUrl: 'https://zainzafar.net',
   siteLanguage: 'en_US',
+  author: 'Zain Zafar <zainzafar90@gmail.com>',
   googleAnalyticsID: 'UA-116099784-2',
   googleVerification: 'HGU8VMKOx-x5FPvIoLFZATc7os9MDFRXNe3T2iBfmEQ',
   name: 'Zain Zafar',
