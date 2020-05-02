@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'HGU8VMKOx-x5FPvIoLFZATc7os9MDFRXNe3T2iBfmEQ',
   name: 'Zain Zafar',
   location: 'Islamabad, PK',
-  email: 'zainzafar90.@gmail.com',
+  email: 'zainzafar90@gmail.com',
   github: 'https://github.com/zainzafar90',
   twitterHandle: '@mzainzafar90',
   socialMedia: [
