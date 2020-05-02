@@ -54,8 +54,8 @@ const theme = {
   hamAfter: `bottom 0.1s ease-in 0.25s, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19)`,
   hamAfterActive: `bottom 0.1s ease-out, transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.12s`,
 
-  navDelay: 1000,
-  loaderDelay: 2000,
+  navDelay: 500,
+  loaderDelay: 1000,
 };
 
 export default theme;
