@@ -12,7 +12,7 @@ showInProjects: false
 - Worked with multiple teams and on multiple projects
 - Collaborating with team members and ensuring timely delivery of the tasks assigned
 - Responsible for head hunting for frontend side of things
-- Architechted & developed wide variety of frontend web application and mobile
+- Architected & developed wide variety of frontend web application and mobile
 applications according to clients needs
 - Optimized health care application and improved SEO using SSR (Server Side
 Rendering)
