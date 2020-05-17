@@ -1,7 +1,7 @@
 ---
 date: '2015-09-01'
 title: 'Lead Frontend Engineer '
-company: 'Aurora Solutions'
+company: 'Aurora'
 location: 'Islamabad, PK'
 range: 'Nov 2015 - Aug 2019'
 url: 'https://aurorasolutions.io/'
